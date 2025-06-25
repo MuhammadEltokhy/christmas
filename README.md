@@ -1,1 +1,1 @@
-# christmas
+This is Christmasitaa, a basic front-end project that is made for Christmas. In this project, there're a header at the top with (Christmas Time Capsule) which can be considered as welcoming for the user, short paragraph that tell the user what should he do that is writing a message or memory and will be sent to him in the future in next Christmas, 2 small images and they're one for santa and another one for present, a footer at the end and 2 small emojis at the end of the page, both of them have an animation for rotating right and left for infinity. 
